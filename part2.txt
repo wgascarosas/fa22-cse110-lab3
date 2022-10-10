@@ -1,4 +1,3 @@
-Fill in the passphrases here.
 greenEggsAndHam
 iHateCplusplus
 HTMLRocks
